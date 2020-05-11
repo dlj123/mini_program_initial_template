@@ -1,0 +1,22 @@
+{
+  "name": "recycle",
+  "version": "1.0.0",
+  "description": "小程序初始模板",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamJikung/mini_program_initial_template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamJikung/mini_program_initial_template/issues"
+  },
+  "homepage": "https://github.com/JamJikung/mini_program_initial_template#readme",
+  "dependencies": {
+    "miniprogram-recycle-view": "^0.1.5"
+  }
+}
